@@ -1,4 +1,4 @@
-# CurrencyExchange
+# CurrencyExchange (Test)
 Консольное приложение, представляющее из себя простейшую биржу. 
 
 Сервер:
